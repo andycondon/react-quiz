@@ -1,3 +1,10 @@
+# See
+
+https://www.freecodecamp.org/news/how-to-build-a-quiz-app-using-react-and-typescript/
+https://www.youtube.com/watch?v=F2JCjVSZlG0
+https://create-react-app.dev/docs/adding-typescript
+https://opentdb.com/api_config.php
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
