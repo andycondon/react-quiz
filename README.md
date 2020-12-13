@@ -4,6 +4,7 @@ https://www.freecodecamp.org/news/how-to-build-a-quiz-app-using-react-and-typesc
 https://www.youtube.com/watch?v=F2JCjVSZlG0
 https://create-react-app.dev/docs/adding-typescript
 https://opentdb.com/api_config.php
+https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components
 
 # Getting Started with Create React App
 
