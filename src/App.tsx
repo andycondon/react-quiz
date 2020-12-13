@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import {fetchQuizQuestions} from './API';
+import { fetchQuizQuestions } from './API';
 // Components
 import QuestionCard from './components/QuestionCard';
 // Types
@@ -51,9 +51,11 @@ const App = () => {
   return (
     <div className='App'>
       <h1>REACT QUIZ</h1>
-      <button className='start' onClick={startTrivia}>
-        Start
-      </button>
+      {gameOver || userAnswers.length === TOTAL_QUESTIONS ? (
+        <button className='start' onClick={startTrivia}>
+          Start
+        </button>
+      ) : null}
       <p className='score'>Score:</p>
       <p>Loading Questions...</p>
       {/* {<QuestionCard
